@@ -6,9 +6,13 @@ I'm a Computer Science Student at University of Brawijaya
 * I like to code and make games 
 * I like rock music 🎸
 * I love my dog
-          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs" />
+  </a>
+</p>
 ## Languages & Tools
-![(https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F274050%2Funity&psig=AOvVaw1z087R1kqcc6eg8o3PunaE&ust=1710088674390000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCOv_HO54QDFQAAAAAdAAAAABAJ)]
+
 
 
 
