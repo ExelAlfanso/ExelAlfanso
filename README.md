@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExelCoeg)](https://git.io/streak-stats)
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ExelCoeg)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nb6dmkpky5yhcoyxtn4taypabm)
