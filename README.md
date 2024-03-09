@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][1]
+[![My Skills](https://skillicons.dev/icons?i=instagram)][1]
 ### About me
 I'm a Computer Science Student at University of Brawijaya
 * I like to code and make games 
@@ -8,7 +8,7 @@ I'm a Computer Science Student at University of Brawijaya
 * I love my dog
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
+[![languagesandtools](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
 
 
 
