@@ -3,9 +3,9 @@
 
 ### About me
 I'm a Computer Science Student at University of Brawijaya
- Markup : * I like to code and make games 
-          * I like rock music 🎸
-          * I love my dog
+* I like to code and make games 
+* I like rock music 🎸
+* I love my dog
           
 
 <!--
