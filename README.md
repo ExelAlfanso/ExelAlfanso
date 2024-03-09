@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
-
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[2]: https://www.instagram.com/exel.alfanso
 ### About me
 I'm a Computer Science Student at University of Brawijaya
 * I like to code and make games 
 * I like rock music 🎸
 * I love my dog
           
-
+## Language 
 <!--
 **ExelCoeg/ExelCoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
