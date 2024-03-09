@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[2]: https://www.instagram.com/exel.alfanso
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][https://www.instagram.com/exel.alfanso]
+
 ### About me
 I'm a Computer Science Student at University of Brawijaya
 * I like to code and make games 
