@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)][1]
+[![socialmedia](https://skillicons.dev/icons?i=instagram)][1]
+[![socialmedia](https://skillicons.dev/icons?i=linkedin)][2]
+
 ### About me
 I'm a Computer Science Student at University of Brawijaya
 * I like to code and make games 
@@ -24,3 +26,4 @@ I'm a Computer Science Student at University of Brawijaya
 
 
 [1]: https://www.instagram.com/exel.alfanso
+[2]: https://www.linkedin.com/in/exel-boy-alfanso-a78bb2221/
