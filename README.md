@@ -8,7 +8,7 @@ I'm a Computer Science Student at University of Brawijaya
 * I love my dog
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
 
 
 
