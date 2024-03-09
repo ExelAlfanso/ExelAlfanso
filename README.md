@@ -1,6 +1,13 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
 
+### About me
+I'm a Computer Science Student at University of Brawijaya
+ Markup : * I like to code and make games 
+          * I like rock music 🎸
+          * I love my dog
+          
+
 <!--
 **ExelCoeg/ExelCoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
