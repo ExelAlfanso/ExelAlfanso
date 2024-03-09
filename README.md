@@ -13,12 +13,11 @@ I'm a Computer Science Student at University of Brawijaya
 [![languagesandtools](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
 
 
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExelCoeg)](https://git.io/streak-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nb6dmkpky5yhcoyxtn4taypabm)
+
+
+
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31nb6dmkpky5yhcoyxtn4taypabm)
 
 
 
