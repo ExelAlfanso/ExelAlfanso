@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][1]
 ### About me
 I'm a Computer Science Student at University of Brawijaya
 * I like to code and make games 
@@ -7,19 +8,13 @@ I'm a Computer Science Student at University of Brawijaya
 * I love my dog
           
 ## Language 
-<!--
-**ExelCoeg/ExelCoeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExelCoeg)](https://git.io/streak-stats)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nb6dmkpky5yhcoyxtn4taypabm)
+
+
+
+
+
+
+[1]: https://www.instagram.com/exel.alfanso
