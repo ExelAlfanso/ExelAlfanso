@@ -4,7 +4,7 @@
 [![socialmedia](https://skillicons.dev/icons?i=linkedin)][2]
 
 ### About me
-I'm a Computer Science Student at University of Brawijaya
+I'm a Computer Science student at University of Brawijaya
 Open to such things related to game development!
 * I like to code and make games 
 * I like rock music 🎸
