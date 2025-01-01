@@ -12,7 +12,7 @@ Open to such things related to game development!
 * I love my dog
 
 ## Languages & Tools
-[![languagesandtools](https://skillicons.dev/icons?i=unity,cs,firebase,vscode&perline=3)](https://skillicons.dev)
+[![languagesandtools](https://skillicons.dev/icons?i=unity,cs,firebase,vscode,flutter&perline=3)](https://skillicons.dev)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ExelCoeg)](https://git.io/streak-stats)
