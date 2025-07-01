@@ -6,8 +6,8 @@
 ### About me
 I'm a Computer Science student at University of Brawijaya
 
-Open to such things related to Web, App, and Game Developent !
-* I love Title Fight
+Open to such things related to Web, App, and Game Development !
+* I love rock music 🎸
 
 ## Languages & Tools
 [![languagesandtools](https://skillicons.dev/icons?i=unity,cs,postgresql,vscode,flutter,flask,react,python,typescript,javascript&perline=3)](https://skillicons.dev)
