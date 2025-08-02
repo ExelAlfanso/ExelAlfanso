@@ -7,7 +7,7 @@
 I'm a full-stack developer exploring modern web technologies like React, Tailwind CSS, and Express.js I also have a background in game development and a passion for building interactive, user-focused projects.
 
 ## Languages & Tools
-[![languagesandtools](https://skillicons.dev/icons?i=unity,cs,postgresql,vscode,flutter,flask,react,python,typescript,javascript,express,postgres,tailwind&perline=5)](https://skillicons.dev)
+[![languagesandtools](https://skillicons.dev/icons?i=unity,cs,postgresql,vscode,flutter,flask,react,python,typescript,javascript,express,postgres,tailwind&perline=10)](https://skillicons.dev)
 
 
 
