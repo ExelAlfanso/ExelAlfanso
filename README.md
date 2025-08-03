@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
-[![socialmedia](https://skillicons.dev/icons?i=instagram)][1]
-[![socialmedia](https://skillicons.dev/icons?i=linkedin)][2]
+
 
 ### About me
 I'm a full-stack developer exploring modern web technologies like React, Tailwind CSS, and Express.js I also have a background in game development and a passion for building interactive, user-focused projects.
@@ -12,7 +11,9 @@ I'm a full-stack developer exploring modern web technologies like React, Tailwin
 ## My GitHub Contributions Summary
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-
+## Contact me
+[![socialmedia](https://skillicons.dev/icons?i=instagram)][1]
+[![socialmedia](https://skillicons.dev/icons?i=linkedin)][2]
 
 [1]: https://www.instagram.com/exel.alfanso
 [2]: https://www.linkedin.com/in/exel-boy-alfanso-a78bb2221/
