@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Exel Boy Alfanso
 
-![Screenshot](./images/profile.jpg)
-
+<img src="./images/screenshot.png" alt="Screenshot" width="100" height="200">
 ### About me
 I'm a full-stack developer exploring modern web technologies like React, Tailwind CSS, and Express.js I also have a background in game development and a passion for building interactive, user-focused projects.
 
