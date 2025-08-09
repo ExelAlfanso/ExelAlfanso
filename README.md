@@ -6,7 +6,7 @@
 I'm a full-stack developer exploring modern web technologies and use tech stack like MERN and NextJS, I also have a background in game development and a passion for building interactive, user-focused projects.
 
 ## Languages & Tools
-[![languagesandtools](https://skillicons.dev/icons?i=unity,cs,postgresql,vscode,flutter,flask,react,python,typescript,javascript,express,postgres,tailwind,mongodb&perline=7)](https://skillicons.dev)
+[![languagesandtools](https://skillicons.dev/icons?i=unity,cs,postgresql,vscode,flutter,flask,react,python,typescript,javascript,express,postgres,tailwind,mongodb,nextjs&perline=7)](https://skillicons.dev)
 
 ## Contact me
 [![socialmedia](https://skillicons.dev/icons?i=instagram)][1]
