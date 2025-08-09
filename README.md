@@ -13,7 +13,7 @@ I'm a full-stack developer exploring modern web technologies and use tech stack 
 [![socialmedia](https://skillicons.dev/icons?i=linkedin)][2]
 
 ## My GitHub Contributions Summary
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ExelAlfanso)](https://git.io/streak-stats)
 
 
 [1]: https://www.instagram.com/exel.alfanso
