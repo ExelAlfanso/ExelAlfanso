@@ -7,7 +7,7 @@ I am a undergraduate Computer Science student at Universitas Brawjiaya, I love e
 
 - 💭 Dreaming all about working in a big tech company all day and all night long
 
-- 🧑 You can check my personal website at [alfanso.xyz](alfanso.xyz)
+- 🧑 You can check my personal website at <a href="https://alfanso.xyz">alfanso.xyz</a>
 
 - 🎸 I absolutely love Title Fight (band from Kingston, Pennsylvania)
  
