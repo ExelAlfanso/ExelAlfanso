@@ -14,7 +14,6 @@ I am a undergraduate Computer Science student at Universitas Brawjiaya, I love e
 
 <h2>🤝Interested to connect? You can connect with me through:</h2>
 <a href="https://instagram.com/exel.alfanso" ><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg" height=40 width=40></img></a>
-<a href="https://twitter.com/geoclexe" ><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter.svg" height=40 width=40></img></a>
 <a href="https://www.linkedin.com/in/exel-boy-alfanso-a78bb2221/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg" height=40 width=40></img></a>
 
 <h2>🔨Languages & Tools</h2>
