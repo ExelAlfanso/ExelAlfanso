@@ -3,7 +3,7 @@
 
 I am a undergraduate Computer Science student at Universitas Brawjiaya, I love exploring modern technologies to create user focused projects! I have experience in several fields such as Game Development, Android Development and Web Development. 
 
-- 💻 My current focus now is being a Backend Developer at Raion Community!
+- 💻 My current focus now is being a Lead Backend Developer at Raion Community!
 
 - 💭 Dreaming all about working in a big tech company all day and all night long
 
