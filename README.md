@@ -1,4 +1,4 @@
-<h2>Hi there 👋 I'm Exel Boy Alfanso, a Full Stack Developer based in Indonesia!</h2>
+<h2>Hi there 👋 I'm Exel Boy Alfanso, a Software Engineer based in Indonesia!</h2>
 
 
 I am a undergraduate Computer Science student at Universitas Brawjiaya, I love exploring modern technologies to create user focused projects! I have experience in several fields such as Game Development, Android Development and Web Development. 
