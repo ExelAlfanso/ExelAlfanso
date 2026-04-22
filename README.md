@@ -9,7 +9,7 @@ I am a undergraduate Computer Science student at Universitas Brawjiaya, I love e
 
 - 🧑 You can check my personal website at <a href="https://alfanso.xyz">alfanso.xyz</a>
 
-- 🎸 I absolutely love Title Fight (band from Kingston, Pennsylvania)
+- 🎸 I love pop punk, hardcore, and midwest emo 
  
 
 <h2>🤝Interested to connect? You can connect with me through:</h2>
